@@ -1,0 +1,40 @@
+{
+  "name": "node-moloni",
+  "version": "0.0.2",
+  "description": "Moloni API client library for node.js",
+  "keywords": [
+    "moloni",
+    "api",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/JonnyBGod/node-moloni",
+  "author": {
+    "name": "JonnyBGod"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/JonnyBGod/node-moloni/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/JonnyBGod/node-moloni.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "matchdep": "latest",
+    "grunt-push-release": "latest"
+  },
+  "engines": [
+    "node >=0.10.0"
+  ],
+  "main": "./lib/moloni",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JonnyBGod/node-moloni/issues"
+  },
+  "_id": "moloni@0.0.1",
+  "_from": "moloni@latest"
+}
