@@ -66,5 +66,4 @@ You can just pass "sandbox: true" to initialize in sandbox mode.
 
 - Add tests for all endpoints as described at (https://www.moloni.com/dev/)
 - Test all endpoints as described at (https://www.moloni.com/dev/)
-- Clean up code
 - Fix ALL THE THINGS! on the GitHub [issues list](https://github.com/JonnyBGod/node-moloni/issues)

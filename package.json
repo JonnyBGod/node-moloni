@@ -1,6 +1,6 @@
 {
   "name": "moloni",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Moloni API client library for node.js",
   "keywords": [
     "moloni",
@@ -21,7 +21,8 @@
     "type": "git",
     "url": "http://github.com/JonnyBGod/node-moloni.git"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "grunt": "latest",
     "matchdep": "latest",
