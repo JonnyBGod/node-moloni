@@ -1,6 +1,6 @@
 {
   "name": "moloni",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Moloni API client library for node.js",
   "keywords": [
     "moloni",
